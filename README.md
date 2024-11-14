@@ -1,4 +1,4 @@
- .# E-Learning Website (Frontend)
+ # E-Learning Website (Frontend)
 
 This is the frontend of an **E-Learning Website** created using **HTML**, **CSS**, and **JavaScript**. The website provides a platform for online learning, featuring an intuitive user interface with course listings, registration forms, and a dynamic user experience. This project focuses on the design and frontend functionalities.
 
@@ -24,4 +24,4 @@ To run the project locally, you don’t need any backend or server. All you need
 1. **Clone the Repository**
    Clone this repository to your local machine using the following command:
    ```bash
-   
+   https://github.com/Shivangi-maurya09/E-Learning-Website.git
